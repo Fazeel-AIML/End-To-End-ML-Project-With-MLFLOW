@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/Fazeel-AIML/End-To-End-ML-Project-With-MLFLOW
+Author: Fazeel-AIML
+Author-email: fasghar40@gmail.com
+Project-URL: Bug Tracker, https://github.com/Fazeel-AIML/End-To-End-ML-Project-With-MLFLOW/issues
+License-File: LICENSE
+
+# End-To-End-ML-Project-With-MLFLOW
